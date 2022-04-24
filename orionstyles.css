@@ -4,3 +4,11 @@ body {
   color: snow;
   text-align: left;
 }
+
+a:link {
+  color: skyblue;
+}
+
+a:visited {
+  color: plum;
+}
